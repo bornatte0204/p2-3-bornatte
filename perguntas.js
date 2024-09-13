@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Futebol',
-    'Qual jogador fez mais gols numa unica edição de champions ?',
+    'Qual jogador fez mais gols numa única edição de champions ?',
     'CRISTIANO RONALDO em 2013/14 com 17 gols '
 )
 
@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Futebol',
     'Qual o maior campeão brasileiro ?',
-    'PALMEIRAS com 12 titolos'
+    'PALMEIRAS com 12 títulos'
 )
