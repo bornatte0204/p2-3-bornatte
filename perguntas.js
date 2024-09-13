@@ -1,6 +1,6 @@
 criaCartao(
     'Futebol',
-    'quais copas do mundo o Brasil ganhou ?',
+    'Quais copas do mundo o Brasil ganhou ?',
     '58, 60, 70, 94, 2002'
 )
 
