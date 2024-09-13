@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Futebol',
+    'Qual jogador fez mais gols numa unica edição de champions ?',
+    'CRISTIANO RONALDO em 2013/14 com 17 gols '
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Futebol',
+    'Qual o maior artilhero da historia do futebol em gols oficiais ?',
+    'CRISTIANO RONALDO com 901 gols '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Futebol',
+    'Qual o maior campeão brasileiro ?',
+    'PALMEIRAS com 12 titolos'
 )
